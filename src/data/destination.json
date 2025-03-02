@@ -1,0 +1,1602 @@
+[
+  {
+    "city": "New York",
+    "country": "USA",
+    "clues": [
+      "This city is known for its unique landmarks and cultural heritage.",
+      "A famous attraction in New York draws millions of visitors annually."
+    ],
+    "funFact": [
+      "New York is home to one of the most vibrant cultural scenes in USA.",
+      "The city has a fascinating history dating back centuries."
+    ],
+    "trivia": [
+      "New York is renowned for its local cuisine and culinary specialties.",
+      "Sports and festivals are an integral part of life in New York."
+    ]
+  },
+  {
+    "city": "Los Angeles",
+    "country": "USA",
+    "clues": [
+      "This city is known for its unique landmarks and cultural heritage.",
+      "A famous attraction in Los Angeles draws millions of visitors annually."
+    ],
+    "funFact": [
+      "Los Angeles is home to one of the most vibrant cultural scenes in USA.",
+      "The city has a fascinating history dating back centuries."
+    ],
+    "trivia": [
+      "Los Angeles is renowned for its local cuisine and culinary specialties.",
+      "Sports and festivals are an integral part of life in Los Angeles."
+    ]
+  },
+  {
+    "city": "Chicago",
+    "country": "USA",
+    "clues": [
+      "This city is known for its unique landmarks and cultural heritage.",
+      "A famous attraction in Chicago draws millions of visitors annually."
+    ],
+    "funFact": [
+      "Chicago is home to one of the most vibrant cultural scenes in USA.",
+      "The city has a fascinating history dating back centuries."
+    ],
+    "trivia": [
+      "Chicago is renowned for its local cuisine and culinary specialties.",
+      "Sports and festivals are an integral part of life in Chicago."
+    ]
+  },
+  {
+    "city": "Houston",
+    "country": "USA",
+    "clues": [
+      "This city is known for its unique landmarks and cultural heritage.",
+      "A famous attraction in Houston draws millions of visitors annually."
+    ],
+    "funFact": [
+      "Houston is home to one of the most vibrant cultural scenes in USA.",
+      "The city has a fascinating history dating back centuries."
+    ],
+    "trivia": [
+      "Houston is renowned for its local cuisine and culinary specialties.",
+      "Sports and festivals are an integral part of life in Houston."
+    ]
+  },
+  {
+    "city": "Phoenix",
+    "country": "USA",
+    "clues": [
+      "This city is known for its unique landmarks and cultural heritage.",
+      "A famous attraction in Phoenix draws millions of visitors annually."
+    ],
+    "funFact": [
+      "Phoenix is home to one of the most vibrant cultural scenes in USA.",
+      "The city has a fascinating history dating back centuries."
+    ],
+    "trivia": [
+      "Phoenix is renowned for its local cuisine and culinary specialties.",
+      "Sports and festivals are an integral part of life in Phoenix."
+    ]
+  },
+  {
+    "city": "Philadelphia",
+    "country": "USA",
+    "clues": [
+      "This city is known for its unique landmarks and cultural heritage.",
+      "A famous attraction in Philadelphia draws millions of visitors annually."
+    ],
+    "funFact": [
+      "Philadelphia is home to one of the most vibrant cultural scenes in USA.",
+      "The city has a fascinating history dating back centuries."
+    ],
+    "trivia": [
+      "Philadelphia is renowned for its local cuisine and culinary specialties.",
+      "Sports and festivals are an integral part of life in Philadelphia."
+    ]
+  },
+  {
+    "city": "San Antonio",
+    "country": "USA",
+    "clues": [
+      "This city is known for its unique landmarks and cultural heritage.",
+      "A famous attraction in San Antonio draws millions of visitors annually."
+    ],
+    "funFact": [
+      "San Antonio is home to one of the most vibrant cultural scenes in USA.",
+      "The city has a fascinating history dating back centuries."
+    ],
+    "trivia": [
+      "San Antonio is renowned for its local cuisine and culinary specialties.",
+      "Sports and festivals are an integral part of life in San Antonio."
+    ]
+  },
+  {
+    "city": "San Diego",
+    "country": "USA",
+    "clues": [
+      "This city is known for its unique landmarks and cultural heritage.",
+      "A famous attraction in San Diego draws millions of visitors annually."
+    ],
+    "funFact": [
+      "San Diego is home to one of the most vibrant cultural scenes in USA.",
+      "The city has a fascinating history dating back centuries."
+    ],
+    "trivia": [
+      "San Diego is renowned for its local cuisine and culinary specialties.",
+      "Sports and festivals are an integral part of life in San Diego."
+    ]
+  },
+  {
+    "city": "Dallas",
+    "country": "USA",
+    "clues": [
+      "This city is known for its unique landmarks and cultural heritage.",
+      "A famous attraction in Dallas draws millions of visitors annually."
+    ],
+    "funFact": [
+      "Dallas is home to one of the most vibrant cultural scenes in USA.",
+      "The city has a fascinating history dating back centuries."
+    ],
+    "trivia": [
+      "Dallas is renowned for its local cuisine and culinary specialties.",
+      "Sports and festivals are an integral part of life in Dallas."
+    ]
+  },
+  {
+    "city": "San Jose",
+    "country": "USA",
+    "clues": [
+      "This city is known for its unique landmarks and cultural heritage.",
+      "A famous attraction in San Jose draws millions of visitors annually."
+    ],
+    "funFact": [
+      "San Jose is home to one of the most vibrant cultural scenes in USA.",
+      "The city has a fascinating history dating back centuries."
+    ],
+    "trivia": [
+      "San Jose is renowned for its local cuisine and culinary specialties.",
+      "Sports and festivals are an integral part of life in San Jose."
+    ]
+  },
+  {
+    "city": "Austin",
+    "country": "USA",
+    "clues": [
+      "This city is known for its unique landmarks and cultural heritage.",
+      "A famous attraction in Austin draws millions of visitors annually."
+    ],
+    "funFact": [
+      "Austin is home to one of the most vibrant cultural scenes in USA.",
+      "The city has a fascinating history dating back centuries."
+    ],
+    "trivia": [
+      "Austin is renowned for its local cuisine and culinary specialties.",
+      "Sports and festivals are an integral part of life in Austin."
+    ]
+  },
+  {
+    "city": "Jacksonville",
+    "country": "USA",
+    "clues": [
+      "This city is known for its unique landmarks and cultural heritage.",
+      "A famous attraction in Jacksonville draws millions of visitors annually."
+    ],
+    "funFact": [
+      "Jacksonville is home to one of the most vibrant cultural scenes in USA.",
+      "The city has a fascinating history dating back centuries."
+    ],
+    "trivia": [
+      "Jacksonville is renowned for its local cuisine and culinary specialties.",
+      "Sports and festivals are an integral part of life in Jacksonville."
+    ]
+  },
+  {
+    "city": "Fort Worth",
+    "country": "USA",
+    "clues": [
+      "This city is known for its unique landmarks and cultural heritage.",
+      "A famous attraction in Fort Worth draws millions of visitors annually."
+    ],
+    "funFact": [
+      "Fort Worth is home to one of the most vibrant cultural scenes in USA.",
+      "The city has a fascinating history dating back centuries."
+    ],
+    "trivia": [
+      "Fort Worth is renowned for its local cuisine and culinary specialties.",
+      "Sports and festivals are an integral part of life in Fort Worth."
+    ]
+  },
+  {
+    "city": "Columbus",
+    "country": "USA",
+    "clues": [
+      "This city is known for its unique landmarks and cultural heritage.",
+      "A famous attraction in Columbus draws millions of visitors annually."
+    ],
+    "funFact": [
+      "Columbus is home to one of the most vibrant cultural scenes in USA.",
+      "The city has a fascinating history dating back centuries."
+    ],
+    "trivia": [
+      "Columbus is renowned for its local cuisine and culinary specialties.",
+      "Sports and festivals are an integral part of life in Columbus."
+    ]
+  },
+  {
+    "city": "San Francisco",
+    "country": "USA",
+    "clues": [
+      "This city is known for its unique landmarks and cultural heritage.",
+      "A famous attraction in San Francisco draws millions of visitors annually."
+    ],
+    "funFact": [
+      "San Francisco is home to one of the most vibrant cultural scenes in USA.",
+      "The city has a fascinating history dating back centuries."
+    ],
+    "trivia": [
+      "San Francisco is renowned for its local cuisine and culinary specialties.",
+      "Sports and festivals are an integral part of life in San Francisco."
+    ]
+  },
+  {
+    "city": "Charlotte",
+    "country": "USA",
+    "clues": [
+      "This city is known for its unique landmarks and cultural heritage.",
+      "A famous attraction in Charlotte draws millions of visitors annually."
+    ],
+    "funFact": [
+      "Charlotte is home to one of the most vibrant cultural scenes in USA.",
+      "The city has a fascinating history dating back centuries."
+    ],
+    "trivia": [
+      "Charlotte is renowned for its local cuisine and culinary specialties.",
+      "Sports and festivals are an integral part of life in Charlotte."
+    ]
+  },
+  {
+    "city": "Indianapolis",
+    "country": "USA",
+    "clues": [
+      "This city is known for its unique landmarks and cultural heritage.",
+      "A famous attraction in Indianapolis draws millions of visitors annually."
+    ],
+    "funFact": [
+      "Indianapolis is home to one of the most vibrant cultural scenes in USA.",
+      "The city has a fascinating history dating back centuries."
+    ],
+    "trivia": [
+      "Indianapolis is renowned for its local cuisine and culinary specialties.",
+      "Sports and festivals are an integral part of life in Indianapolis."
+    ]
+  },
+  {
+    "city": "Seattle",
+    "country": "USA",
+    "clues": [
+      "This city is known for its unique landmarks and cultural heritage.",
+      "A famous attraction in Seattle draws millions of visitors annually."
+    ],
+    "funFact": [
+      "Seattle is home to one of the most vibrant cultural scenes in USA.",
+      "The city has a fascinating history dating back centuries."
+    ],
+    "trivia": [
+      "Seattle is renowned for its local cuisine and culinary specialties.",
+      "Sports and festivals are an integral part of life in Seattle."
+    ]
+  },
+  {
+    "city": "Denver",
+    "country": "USA",
+    "clues": [
+      "This city is known for its unique landmarks and cultural heritage.",
+      "A famous attraction in Denver draws millions of visitors annually."
+    ],
+    "funFact": [
+      "Denver is home to one of the most vibrant cultural scenes in USA.",
+      "The city has a fascinating history dating back centuries."
+    ],
+    "trivia": [
+      "Denver is renowned for its local cuisine and culinary specialties.",
+      "Sports and festivals are an integral part of life in Denver."
+    ]
+  },
+  {
+    "city": "Washington",
+    "country": "USA",
+    "clues": [
+      "This city is known for its unique landmarks and cultural heritage.",
+      "A famous attraction in Washington draws millions of visitors annually."
+    ],
+    "funFact": [
+      "Washington is home to one of the most vibrant cultural scenes in USA.",
+      "The city has a fascinating history dating back centuries."
+    ],
+    "trivia": [
+      "Washington is renowned for its local cuisine and culinary specialties.",
+      "Sports and festivals are an integral part of life in Washington."
+    ]
+  },
+  {
+    "city": "Boston",
+    "country": "USA",
+    "clues": [
+      "This city is known for its unique landmarks and cultural heritage.",
+      "A famous attraction in Boston draws millions of visitors annually."
+    ],
+    "funFact": [
+      "Boston is home to one of the most vibrant cultural scenes in USA.",
+      "The city has a fascinating history dating back centuries."
+    ],
+    "trivia": [
+      "Boston is renowned for its local cuisine and culinary specialties.",
+      "Sports and festivals are an integral part of life in Boston."
+    ]
+  },
+  {
+    "city": "El Paso",
+    "country": "USA",
+    "clues": [
+      "This city is known for its unique landmarks and cultural heritage.",
+      "A famous attraction in El Paso draws millions of visitors annually."
+    ],
+    "funFact": [
+      "El Paso is home to one of the most vibrant cultural scenes in USA.",
+      "The city has a fascinating history dating back centuries."
+    ],
+    "trivia": [
+      "El Paso is renowned for its local cuisine and culinary specialties.",
+      "Sports and festivals are an integral part of life in El Paso."
+    ]
+  },
+  {
+    "city": "Nashville",
+    "country": "USA",
+    "clues": [
+      "This city is known for its unique landmarks and cultural heritage.",
+      "A famous attraction in Nashville draws millions of visitors annually."
+    ],
+    "funFact": [
+      "Nashville is home to one of the most vibrant cultural scenes in USA.",
+      "The city has a fascinating history dating back centuries."
+    ],
+    "trivia": [
+      "Nashville is renowned for its local cuisine and culinary specialties.",
+      "Sports and festivals are an integral part of life in Nashville."
+    ]
+  },
+  {
+    "city": "Detroit",
+    "country": "USA",
+    "clues": [
+      "This city is known for its unique landmarks and cultural heritage.",
+      "A famous attraction in Detroit draws millions of visitors annually."
+    ],
+    "funFact": [
+      "Detroit is home to one of the most vibrant cultural scenes in USA.",
+      "The city has a fascinating history dating back centuries."
+    ],
+    "trivia": [
+      "Detroit is renowned for its local cuisine and culinary specialties.",
+      "Sports and festivals are an integral part of life in Detroit."
+    ]
+  },
+  {
+    "city": "Portland",
+    "country": "USA",
+    "clues": [
+      "This city is known for its unique landmarks and cultural heritage.",
+      "A famous attraction in Portland draws millions of visitors annually."
+    ],
+    "funFact": [
+      "Portland is home to one of the most vibrant cultural scenes in USA.",
+      "The city has a fascinating history dating back centuries."
+    ],
+    "trivia": [
+      "Portland is renowned for its local cuisine and culinary specialties.",
+      "Sports and festivals are an integral part of life in Portland."
+    ]
+  },
+  {
+    "city": "Mumbai",
+    "country": "India",
+    "clues": [
+      "This city is known for its unique landmarks and cultural heritage.",
+      "A famous attraction in Mumbai draws millions of visitors annually."
+    ],
+    "funFact": [
+      "Mumbai is home to one of the most vibrant cultural scenes in India.",
+      "The city has a fascinating history dating back centuries."
+    ],
+    "trivia": [
+      "Mumbai is renowned for its local cuisine and culinary specialties.",
+      "Sports and festivals are an integral part of life in Mumbai."
+    ]
+  },
+  {
+    "city": "Delhi",
+    "country": "India",
+    "clues": [
+      "This city is known for its unique landmarks and cultural heritage.",
+      "A famous attraction in Delhi draws millions of visitors annually."
+    ],
+    "funFact": [
+      "Delhi is home to one of the most vibrant cultural scenes in India.",
+      "The city has a fascinating history dating back centuries."
+    ],
+    "trivia": [
+      "Delhi is renowned for its local cuisine and culinary specialties.",
+      "Sports and festivals are an integral part of life in Delhi."
+    ]
+  },
+  {
+    "city": "Bangalore",
+    "country": "India",
+    "clues": [
+      "This city is known for its unique landmarks and cultural heritage.",
+      "A famous attraction in Bangalore draws millions of visitors annually."
+    ],
+    "funFact": [
+      "Bangalore is home to one of the most vibrant cultural scenes in India.",
+      "The city has a fascinating history dating back centuries."
+    ],
+    "trivia": [
+      "Bangalore is renowned for its local cuisine and culinary specialties.",
+      "Sports and festivals are an integral part of life in Bangalore."
+    ]
+  },
+  {
+    "city": "Hyderabad",
+    "country": "India",
+    "clues": [
+      "This city is known for its unique landmarks and cultural heritage.",
+      "A famous attraction in Hyderabad draws millions of visitors annually."
+    ],
+    "funFact": [
+      "Hyderabad is home to one of the most vibrant cultural scenes in India.",
+      "The city has a fascinating history dating back centuries."
+    ],
+    "trivia": [
+      "Hyderabad is renowned for its local cuisine and culinary specialties.",
+      "Sports and festivals are an integral part of life in Hyderabad."
+    ]
+  },
+  {
+    "city": "Ahmedabad",
+    "country": "India",
+    "clues": [
+      "This city is known for its unique landmarks and cultural heritage.",
+      "A famous attraction in Ahmedabad draws millions of visitors annually."
+    ],
+    "funFact": [
+      "Ahmedabad is home to one of the most vibrant cultural scenes in India.",
+      "The city has a fascinating history dating back centuries."
+    ],
+    "trivia": [
+      "Ahmedabad is renowned for its local cuisine and culinary specialties.",
+      "Sports and festivals are an integral part of life in Ahmedabad."
+    ]
+  },
+  {
+    "city": "Chennai",
+    "country": "India",
+    "clues": [
+      "This city is known for its unique landmarks and cultural heritage.",
+      "A famous attraction in Chennai draws millions of visitors annually."
+    ],
+    "funFact": [
+      "Chennai is home to one of the most vibrant cultural scenes in India.",
+      "The city has a fascinating history dating back centuries."
+    ],
+    "trivia": [
+      "Chennai is renowned for its local cuisine and culinary specialties.",
+      "Sports and festivals are an integral part of life in Chennai."
+    ]
+  },
+  {
+    "city": "Kolkata",
+    "country": "India",
+    "clues": [
+      "This city is known for its unique landmarks and cultural heritage.",
+      "A famous attraction in Kolkata draws millions of visitors annually."
+    ],
+    "funFact": [
+      "Kolkata is home to one of the most vibrant cultural scenes in India.",
+      "The city has a fascinating history dating back centuries."
+    ],
+    "trivia": [
+      "Kolkata is renowned for its local cuisine and culinary specialties.",
+      "Sports and festivals are an integral part of life in Kolkata."
+    ]
+  },
+  {
+    "city": "Surat",
+    "country": "India",
+    "clues": [
+      "This city is known for its unique landmarks and cultural heritage.",
+      "A famous attraction in Surat draws millions of visitors annually."
+    ],
+    "funFact": [
+      "Surat is home to one of the most vibrant cultural scenes in India.",
+      "The city has a fascinating history dating back centuries."
+    ],
+    "trivia": [
+      "Surat is renowned for its local cuisine and culinary specialties.",
+      "Sports and festivals are an integral part of life in Surat."
+    ]
+  },
+  {
+    "city": "Pune",
+    "country": "India",
+    "clues": [
+      "This city is known for its unique landmarks and cultural heritage.",
+      "A famous attraction in Pune draws millions of visitors annually."
+    ],
+    "funFact": [
+      "Pune is home to one of the most vibrant cultural scenes in India.",
+      "The city has a fascinating history dating back centuries."
+    ],
+    "trivia": [
+      "Pune is renowned for its local cuisine and culinary specialties.",
+      "Sports and festivals are an integral part of life in Pune."
+    ]
+  },
+  {
+    "city": "Jaipur",
+    "country": "India",
+    "clues": [
+      "This city is known for its unique landmarks and cultural heritage.",
+      "A famous attraction in Jaipur draws millions of visitors annually."
+    ],
+    "funFact": [
+      "Jaipur is home to one of the most vibrant cultural scenes in India.",
+      "The city has a fascinating history dating back centuries."
+    ],
+    "trivia": [
+      "Jaipur is renowned for its local cuisine and culinary specialties.",
+      "Sports and festivals are an integral part of life in Jaipur."
+    ]
+  },
+  {
+    "city": "Lucknow",
+    "country": "India",
+    "clues": [
+      "This city is known for its unique landmarks and cultural heritage.",
+      "A famous attraction in Lucknow draws millions of visitors annually."
+    ],
+    "funFact": [
+      "Lucknow is home to one of the most vibrant cultural scenes in India.",
+      "The city has a fascinating history dating back centuries."
+    ],
+    "trivia": [
+      "Lucknow is renowned for its local cuisine and culinary specialties.",
+      "Sports and festivals are an integral part of life in Lucknow."
+    ]
+  },
+  {
+    "city": "Kanpur",
+    "country": "India",
+    "clues": [
+      "This city is known for its unique landmarks and cultural heritage.",
+      "A famous attraction in Kanpur draws millions of visitors annually."
+    ],
+    "funFact": [
+      "Kanpur is home to one of the most vibrant cultural scenes in India.",
+      "The city has a fascinating history dating back centuries."
+    ],
+    "trivia": [
+      "Kanpur is renowned for its local cuisine and culinary specialties.",
+      "Sports and festivals are an integral part of life in Kanpur."
+    ]
+  },
+  {
+    "city": "Nagpur",
+    "country": "India",
+    "clues": [
+      "This city is known for its unique landmarks and cultural heritage.",
+      "A famous attraction in Nagpur draws millions of visitors annually."
+    ],
+    "funFact": [
+      "Nagpur is home to one of the most vibrant cultural scenes in India.",
+      "The city has a fascinating history dating back centuries."
+    ],
+    "trivia": [
+      "Nagpur is renowned for its local cuisine and culinary specialties.",
+      "Sports and festivals are an integral part of life in Nagpur."
+    ]
+  },
+  {
+    "city": "Indore",
+    "country": "India",
+    "clues": [
+      "This city is known for its unique landmarks and cultural heritage.",
+      "A famous attraction in Indore draws millions of visitors annually."
+    ],
+    "funFact": [
+      "Indore is home to one of the most vibrant cultural scenes in India.",
+      "The city has a fascinating history dating back centuries."
+    ],
+    "trivia": [
+      "Indore is renowned for its local cuisine and culinary specialties.",
+      "Sports and festivals are an integral part of life in Indore."
+    ]
+  },
+  {
+    "city": "Thane",
+    "country": "India",
+    "clues": [
+      "This city is known for its unique landmarks and cultural heritage.",
+      "A famous attraction in Thane draws millions of visitors annually."
+    ],
+    "funFact": [
+      "Thane is home to one of the most vibrant cultural scenes in India.",
+      "The city has a fascinating history dating back centuries."
+    ],
+    "trivia": [
+      "Thane is renowned for its local cuisine and culinary specialties.",
+      "Sports and festivals are an integral part of life in Thane."
+    ]
+  },
+  {
+    "city": "Bhopal",
+    "country": "India",
+    "clues": [
+      "This city is known for its unique landmarks and cultural heritage.",
+      "A famous attraction in Bhopal draws millions of visitors annually."
+    ],
+    "funFact": [
+      "Bhopal is home to one of the most vibrant cultural scenes in India.",
+      "The city has a fascinating history dating back centuries."
+    ],
+    "trivia": [
+      "Bhopal is renowned for its local cuisine and culinary specialties.",
+      "Sports and festivals are an integral part of life in Bhopal."
+    ]
+  },
+  {
+    "city": "Visakhapatnam",
+    "country": "India",
+    "clues": [
+      "This city is known for its unique landmarks and cultural heritage.",
+      "A famous attraction in Visakhapatnam draws millions of visitors annually."
+    ],
+    "funFact": [
+      "Visakhapatnam is home to one of the most vibrant cultural scenes in India.",
+      "The city has a fascinating history dating back centuries."
+    ],
+    "trivia": [
+      "Visakhapatnam is renowned for its local cuisine and culinary specialties.",
+      "Sports and festivals are an integral part of life in Visakhapatnam."
+    ]
+  },
+  {
+    "city": "Patna",
+    "country": "India",
+    "clues": [
+      "This city is known for its unique landmarks and cultural heritage.",
+      "A famous attraction in Patna draws millions of visitors annually."
+    ],
+    "funFact": [
+      "Patna is home to one of the most vibrant cultural scenes in India.",
+      "The city has a fascinating history dating back centuries."
+    ],
+    "trivia": [
+      "Patna is renowned for its local cuisine and culinary specialties.",
+      "Sports and festivals are an integral part of life in Patna."
+    ]
+  },
+  {
+    "city": "Vadodara",
+    "country": "India",
+    "clues": [
+      "This city is known for its unique landmarks and cultural heritage.",
+      "A famous attraction in Vadodara draws millions of visitors annually."
+    ],
+    "funFact": [
+      "Vadodara is home to one of the most vibrant cultural scenes in India.",
+      "The city has a fascinating history dating back centuries."
+    ],
+    "trivia": [
+      "Vadodara is renowned for its local cuisine and culinary specialties.",
+      "Sports and festivals are an integral part of life in Vadodara."
+    ]
+  },
+  {
+    "city": "Ghaziabad",
+    "country": "India",
+    "clues": [
+      "This city is known for its unique landmarks and cultural heritage.",
+      "A famous attraction in Ghaziabad draws millions of visitors annually."
+    ],
+    "funFact": [
+      "Ghaziabad is home to one of the most vibrant cultural scenes in India.",
+      "The city has a fascinating history dating back centuries."
+    ],
+    "trivia": [
+      "Ghaziabad is renowned for its local cuisine and culinary specialties.",
+      "Sports and festivals are an integral part of life in Ghaziabad."
+    ]
+  },
+  {
+    "city": "Ludhiana",
+    "country": "India",
+    "clues": [
+      "This city is known for its unique landmarks and cultural heritage.",
+      "A famous attraction in Ludhiana draws millions of visitors annually."
+    ],
+    "funFact": [
+      "Ludhiana is home to one of the most vibrant cultural scenes in India.",
+      "The city has a fascinating history dating back centuries."
+    ],
+    "trivia": [
+      "Ludhiana is renowned for its local cuisine and culinary specialties.",
+      "Sports and festivals are an integral part of life in Ludhiana."
+    ]
+  },
+  {
+    "city": "Agra",
+    "country": "India",
+    "clues": [
+      "This city is known for its unique landmarks and cultural heritage.",
+      "A famous attraction in Agra draws millions of visitors annually."
+    ],
+    "funFact": [
+      "Agra is home to one of the most vibrant cultural scenes in India.",
+      "The city has a fascinating history dating back centuries."
+    ],
+    "trivia": [
+      "Agra is renowned for its local cuisine and culinary specialties.",
+      "Sports and festivals are an integral part of life in Agra."
+    ]
+  },
+  {
+    "city": "Nashik",
+    "country": "India",
+    "clues": [
+      "This city is known for its unique landmarks and cultural heritage.",
+      "A famous attraction in Nashik draws millions of visitors annually."
+    ],
+    "funFact": [
+      "Nashik is home to one of the most vibrant cultural scenes in India.",
+      "The city has a fascinating history dating back centuries."
+    ],
+    "trivia": [
+      "Nashik is renowned for its local cuisine and culinary specialties.",
+      "Sports and festivals are an integral part of life in Nashik."
+    ]
+  },
+  {
+    "city": "Ranchi",
+    "country": "India",
+    "clues": [
+      "This city is known for its unique landmarks and cultural heritage.",
+      "A famous attraction in Ranchi draws millions of visitors annually."
+    ],
+    "funFact": [
+      "Ranchi is home to one of the most vibrant cultural scenes in India.",
+      "The city has a fascinating history dating back centuries."
+    ],
+    "trivia": [
+      "Ranchi is renowned for its local cuisine and culinary specialties.",
+      "Sports and festivals are an integral part of life in Ranchi."
+    ]
+  },
+  {
+    "city": "Meerut",
+    "country": "India",
+    "clues": [
+      "This city is known for its unique landmarks and cultural heritage.",
+      "A famous attraction in Meerut draws millions of visitors annually."
+    ],
+    "funFact": [
+      "Meerut is home to one of the most vibrant cultural scenes in India.",
+      "The city has a fascinating history dating back centuries."
+    ],
+    "trivia": [
+      "Meerut is renowned for its local cuisine and culinary specialties.",
+      "Sports and festivals are an integral part of life in Meerut."
+    ]
+  },
+  {
+    "city": "Sydney",
+    "country": "Australia",
+    "clues": [
+      "This city is known for its unique landmarks and cultural heritage.",
+      "A famous attraction in Sydney draws millions of visitors annually."
+    ],
+    "funFact": [
+      "Sydney is home to one of the most vibrant cultural scenes in Australia.",
+      "The city has a fascinating history dating back centuries."
+    ],
+    "trivia": [
+      "Sydney is renowned for its local cuisine and culinary specialties.",
+      "Sports and festivals are an integral part of life in Sydney."
+    ]
+  },
+  {
+    "city": "Melbourne",
+    "country": "Australia",
+    "clues": [
+      "This city is known for its unique landmarks and cultural heritage.",
+      "A famous attraction in Melbourne draws millions of visitors annually."
+    ],
+    "funFact": [
+      "Melbourne is home to one of the most vibrant cultural scenes in Australia.",
+      "The city has a fascinating history dating back centuries."
+    ],
+    "trivia": [
+      "Melbourne is renowned for its local cuisine and culinary specialties.",
+      "Sports and festivals are an integral part of life in Melbourne."
+    ]
+  },
+  {
+    "city": "Brisbane",
+    "country": "Australia",
+    "clues": [
+      "This city is known for its unique landmarks and cultural heritage.",
+      "A famous attraction in Brisbane draws millions of visitors annually."
+    ],
+    "funFact": [
+      "Brisbane is home to one of the most vibrant cultural scenes in Australia.",
+      "The city has a fascinating history dating back centuries."
+    ],
+    "trivia": [
+      "Brisbane is renowned for its local cuisine and culinary specialties.",
+      "Sports and festivals are an integral part of life in Brisbane."
+    ]
+  },
+  {
+    "city": "Perth",
+    "country": "Australia",
+    "clues": [
+      "This city is known for its unique landmarks and cultural heritage.",
+      "A famous attraction in Perth draws millions of visitors annually."
+    ],
+    "funFact": [
+      "Perth is home to one of the most vibrant cultural scenes in Australia.",
+      "The city has a fascinating history dating back centuries."
+    ],
+    "trivia": [
+      "Perth is renowned for its local cuisine and culinary specialties.",
+      "Sports and festivals are an integral part of life in Perth."
+    ]
+  },
+  {
+    "city": "Adelaide",
+    "country": "Australia",
+    "clues": [
+      "This city is known for its unique landmarks and cultural heritage.",
+      "A famous attraction in Adelaide draws millions of visitors annually."
+    ],
+    "funFact": [
+      "Adelaide is home to one of the most vibrant cultural scenes in Australia.",
+      "The city has a fascinating history dating back centuries."
+    ],
+    "trivia": [
+      "Adelaide is renowned for its local cuisine and culinary specialties.",
+      "Sports and festivals are an integral part of life in Adelaide."
+    ]
+  },
+  {
+    "city": "Gold Coast",
+    "country": "Australia",
+    "clues": [
+      "This city is known for its unique landmarks and cultural heritage.",
+      "A famous attraction in Gold Coast draws millions of visitors annually."
+    ],
+    "funFact": [
+      "Gold Coast is home to one of the most vibrant cultural scenes in Australia.",
+      "The city has a fascinating history dating back centuries."
+    ],
+    "trivia": [
+      "Gold Coast is renowned for its local cuisine and culinary specialties.",
+      "Sports and festivals are an integral part of life in Gold Coast."
+    ]
+  },
+  {
+    "city": "Canberra",
+    "country": "Australia",
+    "clues": [
+      "This city is known for its unique landmarks and cultural heritage.",
+      "A famous attraction in Canberra draws millions of visitors annually."
+    ],
+    "funFact": [
+      "Canberra is home to one of the most vibrant cultural scenes in Australia.",
+      "The city has a fascinating history dating back centuries."
+    ],
+    "trivia": [
+      "Canberra is renowned for its local cuisine and culinary specialties.",
+      "Sports and festivals are an integral part of life in Canberra."
+    ]
+  },
+  {
+    "city": "Newcastle",
+    "country": "Australia",
+    "clues": [
+      "This city is known for its unique landmarks and cultural heritage.",
+      "A famous attraction in Newcastle draws millions of visitors annually."
+    ],
+    "funFact": [
+      "Newcastle is home to one of the most vibrant cultural scenes in Australia.",
+      "The city has a fascinating history dating back centuries."
+    ],
+    "trivia": [
+      "Newcastle is renowned for its local cuisine and culinary specialties.",
+      "Sports and festivals are an integral part of life in Newcastle."
+    ]
+  },
+  {
+    "city": "Wollongong",
+    "country": "Australia",
+    "clues": [
+      "This city is known for its unique landmarks and cultural heritage.",
+      "A famous attraction in Wollongong draws millions of visitors annually."
+    ],
+    "funFact": [
+      "Wollongong is home to one of the most vibrant cultural scenes in Australia.",
+      "The city has a fascinating history dating back centuries."
+    ],
+    "trivia": [
+      "Wollongong is renowned for its local cuisine and culinary specialties.",
+      "Sports and festivals are an integral part of life in Wollongong."
+    ]
+  },
+  {
+    "city": "Logan City",
+    "country": "Australia",
+    "clues": [
+      "This city is known for its unique landmarks and cultural heritage.",
+      "A famous attraction in Logan City draws millions of visitors annually."
+    ],
+    "funFact": [
+      "Logan City is home to one of the most vibrant cultural scenes in Australia.",
+      "The city has a fascinating history dating back centuries."
+    ],
+    "trivia": [
+      "Logan City is renowned for its local cuisine and culinary specialties.",
+      "Sports and festivals are an integral part of life in Logan City."
+    ]
+  },
+  {
+    "city": "Geelong",
+    "country": "Australia",
+    "clues": [
+      "This city is known for its unique landmarks and cultural heritage.",
+      "A famous attraction in Geelong draws millions of visitors annually."
+    ],
+    "funFact": [
+      "Geelong is home to one of the most vibrant cultural scenes in Australia.",
+      "The city has a fascinating history dating back centuries."
+    ],
+    "trivia": [
+      "Geelong is renowned for its local cuisine and culinary specialties.",
+      "Sports and festivals are an integral part of life in Geelong."
+    ]
+  },
+  {
+    "city": "Hobart",
+    "country": "Australia",
+    "clues": [
+      "This city is known for its unique landmarks and cultural heritage.",
+      "A famous attraction in Hobart draws millions of visitors annually."
+    ],
+    "funFact": [
+      "Hobart is home to one of the most vibrant cultural scenes in Australia.",
+      "The city has a fascinating history dating back centuries."
+    ],
+    "trivia": [
+      "Hobart is renowned for its local cuisine and culinary specialties.",
+      "Sports and festivals are an integral part of life in Hobart."
+    ]
+  },
+  {
+    "city": "Townsville",
+    "country": "Australia",
+    "clues": [
+      "This city is known for its unique landmarks and cultural heritage.",
+      "A famous attraction in Townsville draws millions of visitors annually."
+    ],
+    "funFact": [
+      "Townsville is home to one of the most vibrant cultural scenes in Australia.",
+      "The city has a fascinating history dating back centuries."
+    ],
+    "trivia": [
+      "Townsville is renowned for its local cuisine and culinary specialties.",
+      "Sports and festivals are an integral part of life in Townsville."
+    ]
+  },
+  {
+    "city": "Cairns",
+    "country": "Australia",
+    "clues": [
+      "This city is known for its unique landmarks and cultural heritage.",
+      "A famous attraction in Cairns draws millions of visitors annually."
+    ],
+    "funFact": [
+      "Cairns is home to one of the most vibrant cultural scenes in Australia.",
+      "The city has a fascinating history dating back centuries."
+    ],
+    "trivia": [
+      "Cairns is renowned for its local cuisine and culinary specialties.",
+      "Sports and festivals are an integral part of life in Cairns."
+    ]
+  },
+  {
+    "city": "Darwin",
+    "country": "Australia",
+    "clues": [
+      "This city is known for its unique landmarks and cultural heritage.",
+      "A famous attraction in Darwin draws millions of visitors annually."
+    ],
+    "funFact": [
+      "Darwin is home to one of the most vibrant cultural scenes in Australia.",
+      "The city has a fascinating history dating back centuries."
+    ],
+    "trivia": [
+      "Darwin is renowned for its local cuisine and culinary specialties.",
+      "Sports and festivals are an integral part of life in Darwin."
+    ]
+  },
+  {
+    "city": "Toowoomba",
+    "country": "Australia",
+    "clues": [
+      "This city is known for its unique landmarks and cultural heritage.",
+      "A famous attraction in Toowoomba draws millions of visitors annually."
+    ],
+    "funFact": [
+      "Toowoomba is home to one of the most vibrant cultural scenes in Australia.",
+      "The city has a fascinating history dating back centuries."
+    ],
+    "trivia": [
+      "Toowoomba is renowned for its local cuisine and culinary specialties.",
+      "Sports and festivals are an integral part of life in Toowoomba."
+    ]
+  },
+  {
+    "city": "Ballarat",
+    "country": "Australia",
+    "clues": [
+      "This city is known for its unique landmarks and cultural heritage.",
+      "A famous attraction in Ballarat draws millions of visitors annually."
+    ],
+    "funFact": [
+      "Ballarat is home to one of the most vibrant cultural scenes in Australia.",
+      "The city has a fascinating history dating back centuries."
+    ],
+    "trivia": [
+      "Ballarat is renowned for its local cuisine and culinary specialties.",
+      "Sports and festivals are an integral part of life in Ballarat."
+    ]
+  },
+  {
+    "city": "Bendigo",
+    "country": "Australia",
+    "clues": [
+      "This city is known for its unique landmarks and cultural heritage.",
+      "A famous attraction in Bendigo draws millions of visitors annually."
+    ],
+    "funFact": [
+      "Bendigo is home to one of the most vibrant cultural scenes in Australia.",
+      "The city has a fascinating history dating back centuries."
+    ],
+    "trivia": [
+      "Bendigo is renowned for its local cuisine and culinary specialties.",
+      "Sports and festivals are an integral part of life in Bendigo."
+    ]
+  },
+  {
+    "city": "Mackay",
+    "country": "Australia",
+    "clues": [
+      "This city is known for its unique landmarks and cultural heritage.",
+      "A famous attraction in Mackay draws millions of visitors annually."
+    ],
+    "funFact": [
+      "Mackay is home to one of the most vibrant cultural scenes in Australia.",
+      "The city has a fascinating history dating back centuries."
+    ],
+    "trivia": [
+      "Mackay is renowned for its local cuisine and culinary specialties.",
+      "Sports and festivals are an integral part of life in Mackay."
+    ]
+  },
+  {
+    "city": "Launceston",
+    "country": "Australia",
+    "clues": [
+      "This city is known for its unique landmarks and cultural heritage.",
+      "A famous attraction in Launceston draws millions of visitors annually."
+    ],
+    "funFact": [
+      "Launceston is home to one of the most vibrant cultural scenes in Australia.",
+      "The city has a fascinating history dating back centuries."
+    ],
+    "trivia": [
+      "Launceston is renowned for its local cuisine and culinary specialties.",
+      "Sports and festivals are an integral part of life in Launceston."
+    ]
+  },
+  {
+    "city": "Rockhampton",
+    "country": "Australia",
+    "clues": [
+      "This city is known for its unique landmarks and cultural heritage.",
+      "A famous attraction in Rockhampton draws millions of visitors annually."
+    ],
+    "funFact": [
+      "Rockhampton is home to one of the most vibrant cultural scenes in Australia.",
+      "The city has a fascinating history dating back centuries."
+    ],
+    "trivia": [
+      "Rockhampton is renowned for its local cuisine and culinary specialties.",
+      "Sports and festivals are an integral part of life in Rockhampton."
+    ]
+  },
+  {
+    "city": "Bunbury",
+    "country": "Australia",
+    "clues": [
+      "This city is known for its unique landmarks and cultural heritage.",
+      "A famous attraction in Bunbury draws millions of visitors annually."
+    ],
+    "funFact": [
+      "Bunbury is home to one of the most vibrant cultural scenes in Australia.",
+      "The city has a fascinating history dating back centuries."
+    ],
+    "trivia": [
+      "Bunbury is renowned for its local cuisine and culinary specialties.",
+      "Sports and festivals are an integral part of life in Bunbury."
+    ]
+  },
+  {
+    "city": "Coffs Harbour",
+    "country": "Australia",
+    "clues": [
+      "This city is known for its unique landmarks and cultural heritage.",
+      "A famous attraction in Coffs Harbour draws millions of visitors annually."
+    ],
+    "funFact": [
+      "Coffs Harbour is home to one of the most vibrant cultural scenes in Australia.",
+      "The city has a fascinating history dating back centuries."
+    ],
+    "trivia": [
+      "Coffs Harbour is renowned for its local cuisine and culinary specialties.",
+      "Sports and festivals are an integral part of life in Coffs Harbour."
+    ]
+  },
+  {
+    "city": "Bundaberg",
+    "country": "Australia",
+    "clues": [
+      "This city is known for its unique landmarks and cultural heritage.",
+      "A famous attraction in Bundaberg draws millions of visitors annually."
+    ],
+    "funFact": [
+      "Bundaberg is home to one of the most vibrant cultural scenes in Australia.",
+      "The city has a fascinating history dating back centuries."
+    ],
+    "trivia": [
+      "Bundaberg is renowned for its local cuisine and culinary specialties.",
+      "Sports and festivals are an integral part of life in Bundaberg."
+    ]
+  },
+  {
+    "city": "Wagga Wagga",
+    "country": "Australia",
+    "clues": [
+      "This city is known for its unique landmarks and cultural heritage.",
+      "A famous attraction in Wagga Wagga draws millions of visitors annually."
+    ],
+    "funFact": [
+      "Wagga Wagga is home to one of the most vibrant cultural scenes in Australia.",
+      "The city has a fascinating history dating back centuries."
+    ],
+    "trivia": [
+      "Wagga Wagga is renowned for its local cuisine and culinary specialties.",
+      "Sports and festivals are an integral part of life in Wagga Wagga."
+    ]
+  },
+  {
+    "city": "Toronto",
+    "country": "Canada",
+    "clues": [
+      "This city is known for its unique landmarks and cultural heritage.",
+      "A famous attraction in Toronto draws millions of visitors annually."
+    ],
+    "funFact": [
+      "Toronto is home to one of the most vibrant cultural scenes in Canada.",
+      "The city has a fascinating history dating back centuries."
+    ],
+    "trivia": [
+      "Toronto is renowned for its local cuisine and culinary specialties.",
+      "Sports and festivals are an integral part of life in Toronto."
+    ]
+  },
+  {
+    "city": "Vancouver",
+    "country": "Canada",
+    "clues": [
+      "This city is known for its unique landmarks and cultural heritage.",
+      "A famous attraction in Vancouver draws millions of visitors annually."
+    ],
+    "funFact": [
+      "Vancouver is home to one of the most vibrant cultural scenes in Canada.",
+      "The city has a fascinating history dating back centuries."
+    ],
+    "trivia": [
+      "Vancouver is renowned for its local cuisine and culinary specialties.",
+      "Sports and festivals are an integral part of life in Vancouver."
+    ]
+  },
+  {
+    "city": "Montreal",
+    "country": "Canada",
+    "clues": [
+      "This city is known for its unique landmarks and cultural heritage.",
+      "A famous attraction in Montreal draws millions of visitors annually."
+    ],
+    "funFact": [
+      "Montreal is home to one of the most vibrant cultural scenes in Canada.",
+      "The city has a fascinating history dating back centuries."
+    ],
+    "trivia": [
+      "Montreal is renowned for its local cuisine and culinary specialties.",
+      "Sports and festivals are an integral part of life in Montreal."
+    ]
+  },
+  {
+    "city": "Calgary",
+    "country": "Canada",
+    "clues": [
+      "This city is known for its unique landmarks and cultural heritage.",
+      "A famous attraction in Calgary draws millions of visitors annually."
+    ],
+    "funFact": [
+      "Calgary is home to one of the most vibrant cultural scenes in Canada.",
+      "The city has a fascinating history dating back centuries."
+    ],
+    "trivia": [
+      "Calgary is renowned for its local cuisine and culinary specialties.",
+      "Sports and festivals are an integral part of life in Calgary."
+    ]
+  },
+  {
+    "city": "Edmonton",
+    "country": "Canada",
+    "clues": [
+      "This city is known for its unique landmarks and cultural heritage.",
+      "A famous attraction in Edmonton draws millions of visitors annually."
+    ],
+    "funFact": [
+      "Edmonton is home to one of the most vibrant cultural scenes in Canada.",
+      "The city has a fascinating history dating back centuries."
+    ],
+    "trivia": [
+      "Edmonton is renowned for its local cuisine and culinary specialties.",
+      "Sports and festivals are an integral part of life in Edmonton."
+    ]
+  },
+  {
+    "city": "Ottawa",
+    "country": "Canada",
+    "clues": [
+      "This city is known for its unique landmarks and cultural heritage.",
+      "A famous attraction in Ottawa draws millions of visitors annually."
+    ],
+    "funFact": [
+      "Ottawa is home to one of the most vibrant cultural scenes in Canada.",
+      "The city has a fascinating history dating back centuries."
+    ],
+    "trivia": [
+      "Ottawa is renowned for its local cuisine and culinary specialties.",
+      "Sports and festivals are an integral part of life in Ottawa."
+    ]
+  },
+  {
+    "city": "Winnipeg",
+    "country": "Canada",
+    "clues": [
+      "This city is known for its unique landmarks and cultural heritage.",
+      "A famous attraction in Winnipeg draws millions of visitors annually."
+    ],
+    "funFact": [
+      "Winnipeg is home to one of the most vibrant cultural scenes in Canada.",
+      "The city has a fascinating history dating back centuries."
+    ],
+    "trivia": [
+      "Winnipeg is renowned for its local cuisine and culinary specialties.",
+      "Sports and festivals are an integral part of life in Winnipeg."
+    ]
+  },
+  {
+    "city": "Quebec City",
+    "country": "Canada",
+    "clues": [
+      "This city is known for its unique landmarks and cultural heritage.",
+      "A famous attraction in Quebec City draws millions of visitors annually."
+    ],
+    "funFact": [
+      "Quebec City is home to one of the most vibrant cultural scenes in Canada.",
+      "The city has a fascinating history dating back centuries."
+    ],
+    "trivia": [
+      "Quebec City is renowned for its local cuisine and culinary specialties.",
+      "Sports and festivals are an integral part of life in Quebec City."
+    ]
+  },
+  {
+    "city": "Hamilton",
+    "country": "Canada",
+    "clues": [
+      "This city is known for its unique landmarks and cultural heritage.",
+      "A famous attraction in Hamilton draws millions of visitors annually."
+    ],
+    "funFact": [
+      "Hamilton is home to one of the most vibrant cultural scenes in Canada.",
+      "The city has a fascinating history dating back centuries."
+    ],
+    "trivia": [
+      "Hamilton is renowned for its local cuisine and culinary specialties.",
+      "Sports and festivals are an integral part of life in Hamilton."
+    ]
+  },
+  {
+    "city": "Kitchener",
+    "country": "Canada",
+    "clues": [
+      "This city is known for its unique landmarks and cultural heritage.",
+      "A famous attraction in Kitchener draws millions of visitors annually."
+    ],
+    "funFact": [
+      "Kitchener is home to one of the most vibrant cultural scenes in Canada.",
+      "The city has a fascinating history dating back centuries."
+    ],
+    "trivia": [
+      "Kitchener is renowned for its local cuisine and culinary specialties.",
+      "Sports and festivals are an integral part of life in Kitchener."
+    ]
+  },
+  {
+    "city": "London",
+    "country": "Canada",
+    "clues": [
+      "This city is known for its unique landmarks and cultural heritage.",
+      "A famous attraction in London draws millions of visitors annually."
+    ],
+    "funFact": [
+      "London is home to one of the most vibrant cultural scenes in Canada.",
+      "The city has a fascinating history dating back centuries."
+    ],
+    "trivia": [
+      "London is renowned for its local cuisine and culinary specialties.",
+      "Sports and festivals are an integral part of life in London."
+    ]
+  },
+  {
+    "city": "Victoria",
+    "country": "Canada",
+    "clues": [
+      "This city is known for its unique landmarks and cultural heritage.",
+      "A famous attraction in Victoria draws millions of visitors annually."
+    ],
+    "funFact": [
+      "Victoria is home to one of the most vibrant cultural scenes in Canada.",
+      "The city has a fascinating history dating back centuries."
+    ],
+    "trivia": [
+      "Victoria is renowned for its local cuisine and culinary specialties.",
+      "Sports and festivals are an integral part of life in Victoria."
+    ]
+  },
+  {
+    "city": "Halifax",
+    "country": "Canada",
+    "clues": [
+      "This city is known for its unique landmarks and cultural heritage.",
+      "A famous attraction in Halifax draws millions of visitors annually."
+    ],
+    "funFact": [
+      "Halifax is home to one of the most vibrant cultural scenes in Canada.",
+      "The city has a fascinating history dating back centuries."
+    ],
+    "trivia": [
+      "Halifax is renowned for its local cuisine and culinary specialties.",
+      "Sports and festivals are an integral part of life in Halifax."
+    ]
+  },
+  {
+    "city": "Oshawa",
+    "country": "Canada",
+    "clues": [
+      "This city is known for its unique landmarks and cultural heritage.",
+      "A famous attraction in Oshawa draws millions of visitors annually."
+    ],
+    "funFact": [
+      "Oshawa is home to one of the most vibrant cultural scenes in Canada.",
+      "The city has a fascinating history dating back centuries."
+    ],
+    "trivia": [
+      "Oshawa is renowned for its local cuisine and culinary specialties.",
+      "Sports and festivals are an integral part of life in Oshawa."
+    ]
+  },
+  {
+    "city": "Windsor",
+    "country": "Canada",
+    "clues": [
+      "This city is known for its unique landmarks and cultural heritage.",
+      "A famous attraction in Windsor draws millions of visitors annually."
+    ],
+    "funFact": [
+      "Windsor is home to one of the most vibrant cultural scenes in Canada.",
+      "The city has a fascinating history dating back centuries."
+    ],
+    "trivia": [
+      "Windsor is renowned for its local cuisine and culinary specialties.",
+      "Sports and festivals are an integral part of life in Windsor."
+    ]
+  },
+  {
+    "city": "Saskatoon",
+    "country": "Canada",
+    "clues": [
+      "This city is known for its unique landmarks and cultural heritage.",
+      "A famous attraction in Saskatoon draws millions of visitors annually."
+    ],
+    "funFact": [
+      "Saskatoon is home to one of the most vibrant cultural scenes in Canada.",
+      "The city has a fascinating history dating back centuries."
+    ],
+    "trivia": [
+      "Saskatoon is renowned for its local cuisine and culinary specialties.",
+      "Sports and festivals are an integral part of life in Saskatoon."
+    ]
+  },
+  {
+    "city": "Regina",
+    "country": "Canada",
+    "clues": [
+      "This city is known for its unique landmarks and cultural heritage.",
+      "A famous attraction in Regina draws millions of visitors annually."
+    ],
+    "funFact": [
+      "Regina is home to one of the most vibrant cultural scenes in Canada.",
+      "The city has a fascinating history dating back centuries."
+    ],
+    "trivia": [
+      "Regina is renowned for its local cuisine and culinary specialties.",
+      "Sports and festivals are an integral part of life in Regina."
+    ]
+  },
+  {
+    "city": "St. John's",
+    "country": "Canada",
+    "clues": [
+      "This city is known for its unique landmarks and cultural heritage.",
+      "A famous attraction in St. John's draws millions of visitors annually."
+    ],
+    "funFact": [
+      "St. John's is home to one of the most vibrant cultural scenes in Canada.",
+      "The city has a fascinating history dating back centuries."
+    ],
+    "trivia": [
+      "St. John's is renowned for its local cuisine and culinary specialties.",
+      "Sports and festivals are an integral part of life in St. John's."
+    ]
+  },
+  {
+    "city": "Kelowna",
+    "country": "Canada",
+    "clues": [
+      "This city is known for its unique landmarks and cultural heritage.",
+      "A famous attraction in Kelowna draws millions of visitors annually."
+    ],
+    "funFact": [
+      "Kelowna is home to one of the most vibrant cultural scenes in Canada.",
+      "The city has a fascinating history dating back centuries."
+    ],
+    "trivia": [
+      "Kelowna is renowned for its local cuisine and culinary specialties.",
+      "Sports and festivals are an integral part of life in Kelowna."
+    ]
+  },
+  {
+    "city": "Barrie",
+    "country": "Canada",
+    "clues": [
+      "This city is known for its unique landmarks and cultural heritage.",
+      "A famous attraction in Barrie draws millions of visitors annually."
+    ],
+    "funFact": [
+      "Barrie is home to one of the most vibrant cultural scenes in Canada.",
+      "The city has a fascinating history dating back centuries."
+    ],
+    "trivia": [
+      "Barrie is renowned for its local cuisine and culinary specialties.",
+      "Sports and festivals are an integral part of life in Barrie."
+    ]
+  },
+  {
+    "city": "Sherbrooke",
+    "country": "Canada",
+    "clues": [
+      "This city is known for its unique landmarks and cultural heritage.",
+      "A famous attraction in Sherbrooke draws millions of visitors annually."
+    ],
+    "funFact": [
+      "Sherbrooke is home to one of the most vibrant cultural scenes in Canada.",
+      "The city has a fascinating history dating back centuries."
+    ],
+    "trivia": [
+      "Sherbrooke is renowned for its local cuisine and culinary specialties.",
+      "Sports and festivals are an integral part of life in Sherbrooke."
+    ]
+  },
+  {
+    "city": "Guelph",
+    "country": "Canada",
+    "clues": [
+      "This city is known for its unique landmarks and cultural heritage.",
+      "A famous attraction in Guelph draws millions of visitors annually."
+    ],
+    "funFact": [
+      "Guelph is home to one of the most vibrant cultural scenes in Canada.",
+      "The city has a fascinating history dating back centuries."
+    ],
+    "trivia": [
+      "Guelph is renowned for its local cuisine and culinary specialties.",
+      "Sports and festivals are an integral part of life in Guelph."
+    ]
+  },
+  {
+    "city": "Abbotsford",
+    "country": "Canada",
+    "clues": [
+      "This city is known for its unique landmarks and cultural heritage.",
+      "A famous attraction in Abbotsford draws millions of visitors annually."
+    ],
+    "funFact": [
+      "Abbotsford is home to one of the most vibrant cultural scenes in Canada.",
+      "The city has a fascinating history dating back centuries."
+    ],
+    "trivia": [
+      "Abbotsford is renowned for its local cuisine and culinary specialties.",
+      "Sports and festivals are an integral part of life in Abbotsford."
+    ]
+  },
+  {
+    "city": "Kingston",
+    "country": "Canada",
+    "clues": [
+      "This city is known for its unique landmarks and cultural heritage.",
+      "A famous attraction in Kingston draws millions of visitors annually."
+    ],
+    "funFact": [
+      "Kingston is home to one of the most vibrant cultural scenes in Canada.",
+      "The city has a fascinating history dating back centuries."
+    ],
+    "trivia": [
+      "Kingston is renowned for its local cuisine and culinary specialties.",
+      "Sports and festivals are an integral part of life in Kingston."
+    ]
+  },
+  {
+    "city": "Trois-Rivi",
+    "country": "Canada",
+    "clues": [
+      "This city is known for its unique landmarks and cultural heritage.",
+      "A famous attraction in Trois-Rivi\u00e8res draws millions of visitors annually."
+    ],
+    "funFact": [
+      "Trois-Rivi\u00e8res is home to one of the most vibrant cultural scenes in Canada.",
+      "The city has a fascinating history dating back centuries."
+    ],
+    "trivia": [
+      "Trois-Rivi\u00e8res is renowned for its local cuisine and culinary specialties.",
+      "Sports and festivals are an integral part of life in Trois-Rivi\u00e8res."
+    ]
+  }
+]
